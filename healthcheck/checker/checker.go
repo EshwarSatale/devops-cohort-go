@@ -5,7 +5,7 @@ import (
 
   "fmt"
   "github.com/fatih/color"
-  "github.com/EshwarSatale/devops-cohort-go/healthcheck/checker"
+  "github.com/EshwarSatale/devops-cohort-go/healthcheck/models"
 )
 
 func PrintStatus(s models.Service){
